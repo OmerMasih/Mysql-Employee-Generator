@@ -33,11 +33,8 @@ After you completed installing all the dependencies, run npm server in your term
 ## Mock
 
 The following video show the functionality of the application.
-<<<<<<< HEAD
-https://drive.google.com/file/d/1izXLoxbFCnTAqKKWs1RMLtpvgr2QV8BX/view
-=======
 
->>>>>>> 9de46b040bab50cf4281b97955acd4590717fe67
+https://drive.google.com/file/d/1izXLoxbFCnTAqKKWs1RMLtpvgr2QV8BX/view
 
 ## License
 
